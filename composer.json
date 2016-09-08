@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jamesryanbell/cloudflare": "^1.7",
+        "symfony/var-dumper": "^3.1",
+        "cocur/background-process": "^0.6.0"
+    }
+}
